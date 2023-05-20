@@ -2,3 +2,4 @@
 ## Exclude Folders
 node_modules/
 log/
+secrets/
